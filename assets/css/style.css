@@ -44,7 +44,7 @@
   --ff-gordita: "Gordita", sans-serif;
   
   --fs-1: 6rem;
-  --fs-2: 5rem;
+  --fs-2: 3.5rem;
   --fs-3: 3.8rem;
   --fs-4: 2.8rem;
   --fs-5: 2.6rem;
@@ -488,7 +488,7 @@ body.active { overflow: hidden; }
   top: 0;
   left: 50%;
   transform: translateX(-50%);
-  width: 300px;
+  width: 270px;
   font-weight: inherit;
   display: flex;
 }
